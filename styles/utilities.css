@@ -1,0 +1,29 @@
+.container {
+  max-width: 80%;
+  margin: auto;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #777;
+}
+
+a:hover {
+  color: #87b149;
+}
+
+.btn {
+  display: inline-block;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+/*# sourceMappingURL=utilities.css.map */
